@@ -1,0 +1,4 @@
+banana apple banana carrot apple
+apple banana banana banana carrot
+apple carrot carrot
+appale banana apple apple

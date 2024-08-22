@@ -1,0 +1,4 @@
+Name     Qty    MRP
+apple      1    199
+banana     2     52
+carrot     3     75
